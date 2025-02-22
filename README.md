@@ -3,7 +3,7 @@
 My name is Robert Loghin. I am currently a medical engineering student at UMPhST "George Emil Palade" in Targu Mures.
 I mostly work in C++/C# but I am trying to learn other languages too, like Python and Lua.
 
-Here I will upload my various programming assignments from college, and also any passion projects that I work on.
+Here I will upload any passion projects that I work on.
 <!--
 **Rrobert0609/Rrobert0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
