@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Robert Loghin. I am currently a medical engineering student at UMPhST "George Emil Palade" in Targu Mures.
-I mostly work in C++/C# but I am trying to learn other languages too, like Python and Lua.
+I mostly work in C++/C# but I am trying to learn other languages too, like Python, Lua and Blazor.
 
 Here I will upload any passion projects that I work on.
 <!--
